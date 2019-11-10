@@ -1,2 +1,0 @@
-# revent
-SelfePracticeProject
